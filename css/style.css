@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* fonts css */
+.font-roboto {
+    font-family: "Roboto", sans-serif;
+  }
+
+.font-bebas-neue {
+    font-family: "Bebas Neue", sans-serif;
+  }
